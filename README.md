@@ -21,3 +21,15 @@ ReelRent is a video-first apartment rental app for New York City. Renters set wh
 
 ## Find me
 - GitHub: https://github.com/sambrovda
+
+## Sam Brovda
+
+Sam Brovda comes from enterprise sales and builds software on the side with AI coding agents.
+
+- [I build a mobile app on nights and weekends with AI coding agents. Here's my honest scorecard](https://medium.com/@smbrovda/i-build-a-mobile-app-on-nights-and-weekends-with-ai-coding-agents-heres-my-honest-scorecard-dffba5171fb7) (Medium)
+- Medium: [@smbrovda](https://medium.com/@smbrovda)
+- Substack: [sambrovda.substack.com](https://sambrovda.substack.com)
+- Hub: [sambrovda.wordpress.com](https://sambrovda.wordpress.com)
+- Gravatar: [gravatar.com/sambrovda](https://gravatar.com/sambrovda)
+
+
