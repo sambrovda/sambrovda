@@ -19,6 +19,7 @@ ReelRent is a video-first apartment rental app for New York City. Renters set wh
 
 Sam Brovda comes from enterprise sales and builds software on the side with AI coding agents.
 
+- [I'm Building a Two-Person Company on a Walking Treadmill. I Come From Sales.](https://medium.com/@smbrovda/im-building-a-two-person-company-on-a-walking-treadmill-i-come-from-sales-bcc6a456de5a) (Medium)
 - [I build a mobile app on nights and weekends with AI coding agents. Here's my honest scorecard](https://medium.com/@smbrovda/i-build-a-mobile-app-on-nights-and-weekends-with-ai-coding-agents-heres-my-honest-scorecard-dffba5171fb7) (Medium)
 - [I Built a Daily Sports Card Game in a Month With AI Agents. Here's Everything It Broke.](https://medium.com/@smbrovda/i-built-a-daily-sports-card-game-in-a-month-with-ai-agents-heres-everything-it-broke-4037f5b78dba) (Medium)
 - Medium: [@smbrovda](https://medium.com/@smbrovda)
