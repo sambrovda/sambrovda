@@ -24,7 +24,7 @@ Sam Brovda comes from enterprise sales and builds software on the side with AI c
 - [I Built a Daily Sports Card Game in a Month With AI Agents. Here's Everything It Broke.](https://medium.com/@smbrovda/i-built-a-daily-sports-card-game-in-a-month-with-ai-agents-heres-everything-it-broke-4037f5b78dba) (Medium)
 - Medium: [@smbrovda](https://medium.com/@smbrovda)
 - Substack: [sambrovda.substack.com](https://sambrovda.substack.com)
-- Hub: [sambrovda.wordpress.com](https://sambrovda.wordpress.com)
+- Hub: [sambrovda.wordpress.com](https://sambrovda.wordpress.com) | Personal site: [sambrovda.com](https://sambrovda.com)
 - Gravatar: [gravatar.com/sambrovda](https://gravatar.com/sambrovda)
 
 
